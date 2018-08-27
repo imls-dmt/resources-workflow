@@ -4,4 +4,4 @@ Information about registered data management training resource
 - [ ] Registered by: 
 - [ ] Clearinghouse URL: 
 
-Tracking: @karlbenedict
+Tracking: @karlbenedict @njhoebel
