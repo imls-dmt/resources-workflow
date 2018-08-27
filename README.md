@@ -36,7 +36,7 @@ actions:
 
 5. **Published** - the resource has been published in the clearinghouse.
 
-6. **Reviewed - Do Not Publish* - the item has been reviewed and found not to be publishable in the clearinghouse. The notes for the issue associated with the resource should describe the reason for not being published. 
+6. **Reviewed - Do Not Publish** - the item has been reviewed and found not to be publishable in the clearinghouse. The notes for the issue associated with the resource should describe the reason for not being published. 
 
 **NOTE:** Comments can be added to the issue related to the resource at any point in the process to
 capture information about the process: e.g.
