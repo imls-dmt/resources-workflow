@@ -1,8 +1,8 @@
 # **Data Management Training Clearinghouse** Content Integration
 
-For Selection Criteria to guide the acceptance of educational content to be added to the Clearinghouse, see:  
+[Selection Criteria](https://github.com/imls-dmt/resources-workflow/blob/master/Nov17_2018_SelectionCriteria.pdf) have been developed to guide the curation of educational content that should be added to the Clearinghouse.  
 
-For a tutorial on how to submit content to the Clearinghouse, see:  
+A slide based Tutorial has been developed to provide guidance on the workflow, conventions and input form for the addition of descriptive information about the educational content published in the Clearinghouse.    
 
 # Workflow for Tracking Processing of **Data Management Training Clearinghouse** resources
 
