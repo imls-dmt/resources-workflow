@@ -2,7 +2,7 @@
 
 [Selection Criteria](https://github.com/imls-dmt/resources-workflow/blob/master/Nov17_2018_SelectionCriteria.pdf) have been developed to guide the curation of educational content that should be added to the Clearinghouse.  
 
-A slide based [Tutorial](https://github.com/imls-dmt/resources-workflow/blob/master/Tutorial%20for%20Submitting%20Educational%20Resource%20Metadata.pdf) has been developed to provide guidance on the workflow, conventions and input form that is available on the Clearinghouse for the addition of descriptive information about the educational content published in the Clearinghouse.  
+A slide based [Tutorial](https://github.com/imls-dmt/resources-workflow/blob/master/Tutorial%20for%20Submitting%20Educational%20Resource%20Metadata.pdf) has been developed to provide guidance on the workflow, conventions and input form that is available on the Clearinghouse for the addition of descriptive information about the educational content published in the Clearinghouse. Be sure to look at the Annotations in the PDF to find notes and tips for entry of descriptive information into the input form.
 
 # Workflow for Tracking Processing of **Data Management Training Clearinghouse** Content
 
