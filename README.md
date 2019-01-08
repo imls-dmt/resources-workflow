@@ -4,7 +4,7 @@
 
 A slide based [Tutorial](https://github.com/imls-dmt/resources-workflow/blob/master/Tutorial%20for%20Submitting%20Educational%20Resource%20Metadata.pdf) has been developed to provide guidance on the workflow, conventions and input form that is available on the Clearinghouse for the addition of descriptive information about the educational content published in the Clearinghouse.  
 
-# Workflow for Tracking Processing of **Data Management Training Clearinghouse** content
+# Workflow for Tracking Processing of **Data Management Training Clearinghouse** Content
 
 Create a new [issue](https://github.com/imls-dmt/resources-workflow/issues) by:
 
