@@ -15,10 +15,12 @@ Within the broader term “educational resources”, the inventory of resources 
 
 **Most used:**
 
-*__●	Course__ \(series of units and lessons used to teach the skills and knowledge; often associated with a broader curriculum\)
-*__●	Unit__ \(long-range plan of instruction on a particular concept containing multiple, related lessons\)
-*__●	Lesson__ \(detailed description of an element of instruction in a course that could be contained in a unit of one or more lessons; has been used for presentation slides on a topic\)
-*__●	Demonstration / Simulation__ \(imitation or modeling of a real-world process; has been used for tutorials on tools used or processing done within the research data lifecycle\)
-*__●	Learning Activity__ \(guided or unguided activity engaged in by a learner to acquire skills, concepts or knowledge that may or may not be defined by a lesson; has been used for data “recipes”, data exercises or other hands-on activities\)
-*__●	Educator Curriculum Guide** \(provides definition of what concepts should be taught and /or how a concept should be taught effectively; has been used for course syllabi\)
-*__●	Images / Visuals__ \(standalone representation of a concept used to instruct visually including, but not limited to, pictures, graphics, diagrams, figures, illustrations, charts, and maps; has been used for posters and one page reference guides|)
+  *__Course__ \(series of units and lessons used to teach the skills and knowledge; often associated with a broader curriculum\)
+  *__Unit__ \(long-range plan of instruction on a particular concept containing multiple, related lessons\)
+  *__Lesson__ \(detailed description of an element of instruction in a course that could be contained in a unit of one or more lessons; has been used for presentation slides on a topic\)
+  *__Demonstration / Simulation__ \(imitation or modeling of a real-world process; has been used for tutorials on tools used or processing done within the research data lifecycle\)
+  *__Learning Activity__ \(guided or unguided activity engaged in by a learner to acquire skills, concepts or knowledge that may or may not be defined by a lesson; has been used for data “recipes”, data exercises or other hands-on activities\)
+  *__Educator Curriculum Guide** \(provides definition of what concepts should be taught and /or how a concept should be taught effectively; has been used for course syllabi\)
+  *__Images / Visuals__ \(standalone representation of a concept used to instruct visually including, but not limited to, pictures, graphics, diagrams, figures, illustrations, charts, and maps; has been used for posters and one page reference guides|)
+
+
